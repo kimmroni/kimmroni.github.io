@@ -2,8 +2,6 @@
 ---
 // CSS Style Guide: http://codeguide.co/#css
 
-@import url('//cdn.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css');
-
 $scheme    : '{{ site.scheme | default: Muse }}';
 $variables : base $scheme custom;
 $mixins    : base $scheme custom;
