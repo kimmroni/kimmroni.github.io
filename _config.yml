@@ -168,38 +168,38 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host: https://cdn.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css
+  host:
 
   # Global font settings used on <body> element.
   global:
     # external: true will load this font family from host.
     external: true
-    family: iropke
+    family: Gothic A1
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
   headings:
     external: true
-    family: iropke
+    family: Gothic A1
 
   # Font settings for posts
   # Fallback to `global` font settings.
   posts:
     external: true
-    family: iropke
+    family: Gothic A1
 
   # Font settings for Logo
   # Fallback to `global` font settings.
   # The `size` option use `px` as unit
   logo:
     external: true
-    family: iropke
+    family: Gothic A1
     size:
 
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family: iropke
+    family: Gothic A1
     size:
 
 
