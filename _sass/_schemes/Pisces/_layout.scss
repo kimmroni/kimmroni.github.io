@@ -1,4 +1,16 @@
-.header { width : 80 % ; } / * 80 % * /
+.header {
+  position: relative;
+  margin: 0 auto;
+  //width: $main-desktop;
+  width: 80%;
+
+  @include tablet() {
+    width: auto;
+  }
+  @include mobile() {
+    width: auto;
+  }
+}
 
 .header-inner {
   position: absolute;
@@ -35,9 +47,41 @@
   }
 }
 
-.container  .main-inner { width : 80 % ; } / * 80 % * /
+.container .main-inner {
+  //width: $main-desktop;
+    width: 80%;
 
-.content-wrap { width: calc(100% - 260px); }
+  @include tablet() {
+    width: auto;
+  }
+  @include mobile() {
+    width: auto;
+  }
+}
+
+.content-wrap {
+  float: right;
+  box-sizing: border-box;
+  padding: $content-desktop-padding;
+  //width: $content-desktop;
+  width: calc(100% - 260px);
+  background: white;
+  min-height: 700px;
+  box-shadow: $box-shadow-inner;
+  border-radius: $border-radius-inner;
+
+  @include tablet() {
+    width: 100%;
+    padding: 20px;
+    border-radius: initial;
+  }
+  @include mobile() {
+    width: 100%;
+    padding: 20px;
+    min-height: auto;
+    border-radius: initial;
+  }
+}
 
 .sidebar {
   position: static;
