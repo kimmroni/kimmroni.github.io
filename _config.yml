@@ -5,7 +5,7 @@
 
 # Site
 title: Record
-subtitle: designer(web, UX/UI, maintenance, etc.)
+subtitle: designer (web, UX/UI, maintenance, etc.)
 description:
 author: KIMMINJEONG
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -118,11 +118,11 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
-  #about: /about/
+  categories: /categories/
+  about: /about/
   archives: /archives/
   tags: /tags/
-  #sitemap: /sitemap.xml
+  sitemap: /sitemap.xml
   #commonweal: /404.html
 
 
@@ -236,14 +236,15 @@ social_icons:
 #avatar:
 
 
-# Table Of Contents in the Sidebar
+# Table Of Contents in the Sidebar 사이드 바의 목차
 toc:
   enable: true
 
-  # Automatically add list number to toc.
+  # Automatically add list number to toc. toc에 목록 번호를 자동으로 추가합니다.
   number: true
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
+  # true이면 머리글 너비가 세로 막대보다 길면 모든 단어가 다음 줄에 배치됩니다.
   wrap: false
 
 
@@ -256,8 +257,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  #position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
