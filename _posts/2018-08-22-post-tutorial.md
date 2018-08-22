@@ -1,11 +1,12 @@
 ---
 title: 성음악기(CRAFTER)
-description: ![Desktop Sidebar Preview](/assets/images/post/crafter.jpg)
+photos:
+- /assets/images/post/crafter.jpg
+description: 대한민국을 대표하는 기타 전문 브랜드 '성음악기(CRAFTER)' 의 리뉴얼 작업
 categories:
  - 2015
 tags: 기업, 반응형, 패럴렉스, 다국어
 ---
-![Desktop Sidebar Preview](/assets/images/post/crafter.jpg)
 
 > 프로젝트 기간 2015.04 ~ 2015.11
 
