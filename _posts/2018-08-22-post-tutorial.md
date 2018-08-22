@@ -2,8 +2,8 @@
 title: 성음악기(CRAFTER)
 description: 반응형 웹 구현, 페럴렉스 스크롤(parallax scroll) 디자인, 동영상 백그라운드 플러그인 적용, 제품등록 프로그램, 지역별 대리점 등록관리
 categories:
- - 기업, 반응형, 패럴렉스, 다국어
-tags: 2015
+ - 2015
+tags: 기업, 반응형, 패럴렉스, 다국어
 ---
 ![Desktop Sidebar Preview](/assets/images/post/crafter.jpg)
 
