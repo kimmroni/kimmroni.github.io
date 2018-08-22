@@ -1,5 +1,5 @@
 ---
-title: 국제국립교육원(NIIED)
+title: 포스트 샘플
 description: 글로벌 시대를 선도하는 국제교육 전문기관인 국립국제교육원의 리뉴얼 작업
 photos:
 - https://kimmroni.github.io/assets/images/post/niied.png
