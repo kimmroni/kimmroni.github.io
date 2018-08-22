@@ -1,6 +1,6 @@
 ---
 title: 포스트 샘플
-description: 글로벌 시대를 선도하는 국제교육 전문기관인 국립국제교육원의 리뉴얼 작업
+description: 블로그 표지에 노출 될 간단한 설명
 photos:
 - https://kimmroni.github.io/assets/images/post/niied.png
 categories:
@@ -8,15 +8,14 @@ categories:
 tags: 제작, 2018년, 교육부, 반응형, 다국어, JAVA
 ---
 
->글로벌 시대에 부합하는 대한민국의 인재개발과 인재육성을 목표로 하는 교육부 소속 책임운영기관 국제국립 교육원의 리뉴얼에 참여하였습니다.
-국/영문의 디자인이 다른것이 특징이며 가이드라인에 맞게 제작되었습니다.
+> 상세설명
 
 ## 프로젝트
 
 * 바로가기
 [www.niied.go.kr](http://www.niied.go.kr/)
 
-* 클라이언트 교육부 국립국제교육원
+* 클라이언트 업체명
 
 * 제작기간 2018.07 ~ 2018.8
 
