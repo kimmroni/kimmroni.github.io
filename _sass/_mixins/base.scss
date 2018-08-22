@@ -23,7 +23,7 @@
 }
 
 @mixin desktop-large() {
-  @media (min-width: 1600px) {
+  @media (min-width: 2000px) {
     @content;
   }
 }
