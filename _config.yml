@@ -122,7 +122,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  #sitemap: /sitemap.xml
+  sitemap: /sitemap.xml
   #commonweal: /404.html
 
 
@@ -168,7 +168,7 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host:
+  host: cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Arita-buri-SemiBold.woff
 
   # Global font settings used on <body> element.
   global:
@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.jpg
-  avatar: /assets/images/avatar.jpg
+#  avatar: /assets/images/avatar.jpg
 
 
 # Table Of Contents in the Sidebar 사이드 바의 목차
