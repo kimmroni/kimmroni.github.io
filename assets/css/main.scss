@@ -2,7 +2,7 @@
 ---
 // CSS Style Guide: http://codeguide.co/#css
 
-
+@import url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Arita-buri-SemiBold.woff');
 
 $scheme    : '{{ site.scheme | default: Muse }}';
 $variables : base $scheme custom;
