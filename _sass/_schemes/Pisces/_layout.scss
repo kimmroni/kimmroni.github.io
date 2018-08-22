@@ -1,14 +1,11 @@
-.header {
-  position: relative;
-  margin: 0 auto;
-  width: $main-desktop;
-
-  @include tablet() {
-    width: auto;
-  }
-  @include mobile() {
-    width: auto;
-  }
+.header{
+    width: 80%;
+    +tablet() {
+        width: 100%;
+    }
+    +mobile() {
+        width: 100%;
+    }
 }
 
 .header-inner {
@@ -47,37 +44,23 @@
 }
 
 .container .main-inner {
-  width: $main-desktop;
-
-  @include tablet() {
-    width: auto;
-  }
-  @include mobile() {
-    width: auto;
-  }
+    width: 80%;
+    +tablet() {
+        width: 100%;
+    }
+    +mobile() {
+        width: 100%;
+    }
 }
 
 .content-wrap {
-  float: right;
-  box-sizing: border-box;
-  padding: $content-desktop-padding;
-  width: $content-desktop;
-  background: white;
-  min-height: 700px;
-  box-shadow: $box-shadow-inner;
-  border-radius: $border-radius-inner;
-
-  @include tablet() {
-    width: 100%;
-    padding: 20px;
-    border-radius: initial;
-  }
-  @include mobile() {
-    width: 100%;
-    padding: 20px;
-    min-height: auto;
-    border-radius: initial;
-  }
+    width: calc(100% - 260px);
+    +tablet() {
+        width: 100%;
+    }
+    +mobile() {
+        width: 100%;
+    }
 }
 
 .sidebar {
