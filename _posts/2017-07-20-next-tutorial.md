@@ -121,6 +121,7 @@ social:
 
 ### Feed link.
 
+
 > Show a feed link.
 
 Set `rss` field in theme's `_config.yml`, as the following value:
