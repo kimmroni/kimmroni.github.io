@@ -1,14 +1,11 @@
 ---
-title: 성음악기
-description: 반응형 웹 구현
-페럴렉스 스크롤(parallax scroll) 디자인
-동영상 백그라운드 플러그인 적용
-제품등록 프로그램
-지역별 대리점 등록관리
+title: 성음악기(CRAFTER)
+description: 반응형 웹 구현, 페럴렉스 스크롤(parallax scroll) 디자인, 동영상 백그라운드 플러그인 적용, 제품등록 프로그램, 지역별 대리점 등록관리
 categories:
- - posting
-tags: 기업, 반응형, 패럴렉스, 다국어
+ - 기업, 반응형, 패럴렉스, 다국어
+tags: 2015
 ---
+![Desktop Sidebar Preview](/assets/images/post/crafter.jpg)
 
 > 프로젝트 기간 2015.04 ~ 2015.11
 
@@ -27,13 +24,10 @@ tags: 기업, 반응형, 패럴렉스, 다국어
 * 메인/서브:100%
 * 컨텐츠:100%
 
-* Sidebar
+## 메인시안
+* PC
 
-![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-preview.png)
-
-* Sidebar (Post details page)
-
-![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-toc.png)
+![Desktop Sidebar Preview](/assets/images/post/crafter_main.jpg)
 
 * Mobile
 
