@@ -1,7 +1,7 @@
 ---
 title: 성음악기(CRAFTER)
 photos:
-- /assets/images/post/crafter.jpg
+-https://kimmroni.github.io/assets/images/post/crafter.jpg
 description: 대한민국을 대표하는 기타 전문 브랜드 '성음악기(CRAFTER)' 의 리뉴얼 작업
 categories:
  - 2015
