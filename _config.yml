@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Portfolio
-subtitle: 88.10.24 designer(web, UX/UI, maintenance, etc.)
-description: 88.10.24 designer(web, UX/UI, maintenance, etc.)
+title: Record
+subtitle: designer(web, UX/UI, maintenance, etc.)
+description:
 author: KIMMINJEONG
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
@@ -152,8 +152,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -174,7 +174,7 @@ font:
   global:
     # external: true will load this font family from host.
     external: true
-    family: Lato
+    family: Song Myung
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
