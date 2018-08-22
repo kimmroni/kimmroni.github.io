@@ -174,13 +174,13 @@ font:
   global:
     # external: true will load this font family from host.
     external: true
-    family: Gothic A1
+    family: Nanum Myeongjo
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
   headings:
     external: true
-    family: Gothic A1
+    family: Nanum Myeongjo
 
   # Font settings for posts
   # Fallback to `global` font settings.
@@ -193,7 +193,7 @@ font:
   # The `size` option use `px` as unit
   logo:
     external: true
-    family: Gothic A1
+    family: Nanum Myeongjo
     size:
 
   # Font settings for <code> and code blocks.
