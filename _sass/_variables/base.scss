@@ -62,7 +62,7 @@ $selection-color              : white;
 }
 
 // Font families.
-$font-family-chinese      : "Nanum Gothic Coding", "Microsoft YaHei";
+$font-family-chinese      : "PingFang SC", "Microsoft YaHei";
 
 $font-family-base         : $font-family-chinese, sans-serif;
 $font-family-base         : if(get_font_family('global'), (get_font_family('global'), $font-family-chinese, sans-serif), $font-family-base);
@@ -188,15 +188,12 @@ $pagination-active-border       : $grey-light;
 
 // Layout sizes
 // --------------------------------------------------
-//960 1200 700 900
 
-//사이드바와 컨텐츠 영역 사이즈
-$main-desktop                   : 1600px;
-$main-desktop-large             : 2000px;
+$main-desktop                   : 960px;
+$main-desktop-large             : 1200px;
 
-//content-desktop - 포스팅영역 사이즈
-$content-desktop                : 1300px;
-$content-desktop-large          : 1200px;
+$content-desktop                : 700px;
+$content-desktop-large          : 900px;
 $content-desktop-padding        : 40px;
 
 $sidebar-desktop                : 240px;
