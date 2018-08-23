@@ -2,7 +2,7 @@
 title: 포스트 샘플
 description: 블로그 표지에 노출 될 간단한 설명
 photos:
-- https://kimmroni.github.io/assets/images/post/niied.png
+#
 categories:
  - 공공기관
 tags: 제작, 2018년, 교육부, 반응형, 다국어, JAVA
