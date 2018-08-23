@@ -6,6 +6,7 @@
   padding: 20px 0;
   color: white;
   background: #233b5d;
+//사이드바 탑 배경 컬러
 
   @include tablet() {
     box-shadow: 0 0 16px rgba(0,0,0,0.5);
