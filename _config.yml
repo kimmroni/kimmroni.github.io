@@ -7,15 +7,16 @@
 title: Record
 subtitle: 2009 - ing Portflio
 description: web design, UX/UI, maintenance, etc.
-author: KMJ
+author: Roni
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
 
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: roni.cf/
-baseurl: kimmroni.github.io
+url: kimmroni.github.io
+baseurl: roni.cf
 permalink: pretty
 
 # Pagination
