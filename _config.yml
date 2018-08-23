@@ -15,8 +15,8 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: kimmroni.github.io
-baseurl: roni.cf
+url: roni.cf
+baseurl:
 permalink: pretty
 
 # Pagination
@@ -253,7 +253,7 @@ toc:
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 #creative_commons: by-nc-sa
-#creative_commons:
+creative_commons: 문구 테스트
 
 
 sidebar:
@@ -285,9 +285,9 @@ sidebar:
 # Blog rolls
 #links_title: Links
 #links_layout: block
-#links_layout: inline
-#links:
-  #Title: http://example.com/
+links_layout: inline
+links:
+ Title: http://example.com/
 
 
 # ---------------------------------------------------------------
