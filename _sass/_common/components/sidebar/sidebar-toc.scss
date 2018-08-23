@@ -21,7 +21,7 @@
     @include the-transition();
     transition-property: all;
     color: $toc-link-color;
-    border-bottom-color: $toc-link-border-color;
+    border-bottom-color: #ffffff;
 
     &:hover {
       color: $toc-link-hover-color;
