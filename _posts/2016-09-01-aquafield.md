@@ -1,11 +1,11 @@
 ---
 title: 신세계건설 아쿠아필드(aquafield-ssg)
-description: 제작기간 2016.05 ~ 2016.9
+description: 제작기간 2016.05 ~ 2016.9 / 유지관리기간 2016.05 ~ 2018 ing
 photos:
 - https://kimmroni.github.io/assets/images/thum/2016_aqua.png
 categories:
  - 대기업
-tags: 제안, 제작, 2016년, 신세계건설, 반응형, 브랜드, JAVA
+tags: 제안, 제작, 2016년, 신세계건설, 반응형, 브랜드, 유지보수, JAVA
 ---
 
 
@@ -42,11 +42,9 @@ tags: 제안, 제작, 2016년, 신세계건설, 반응형, 브랜드, JAVA
 ![ver3 goyang 2](/assets/images/post/aqua_v3_04.jpg)
 
 
-## 기타
-오픈 이벤트
-- 썸네일
-![event1 thum](/assets/images/post/aqua_event1_thum.jpg)
-![event2 thum](/assets/images/post/aqua_event2_thum.jpg)
+## 이벤트
+- 패들보드 요가체험
+![event1](/assets/images/post/aqua_event1.jpg)
 
-- 상세
-![event1](/assets/images/post/aqua_event1.jpg) ![event2](/assets/images/post/aqua_event2.jpg)
+- 메가박스 주중이벤트
+![event2](/assets/images/post/aqua_event2.jpg)

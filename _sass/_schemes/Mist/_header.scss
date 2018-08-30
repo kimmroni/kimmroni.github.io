@@ -16,7 +16,6 @@
   float: left;
   margin-left: -20px;
   line-height: normal;
-
   @include mobile() {
     margin-left: 10px;
   }
