@@ -2,7 +2,7 @@
 title: 채선당
 description: 제작기간 2016.05 ~ 2016.9
 photos:
-- https://kimmroni.github.io/assets/images/thum/2015_csd.png
+- https://kimmroni.github.io/assets/images/thum/2015_csd.jpg
 categories:
  - 중소기업
 tags: 제안, 제작, 2015년, 반응형, 브랜드, PHP

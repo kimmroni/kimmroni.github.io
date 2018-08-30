@@ -2,7 +2,7 @@
 title: EBS 여행이야기
 description: 제작기간 2018.05 ~ 2018.8
 photos:
-- https://kimmroni.github.io/assets/images/thum/2014_ebs.png
+- https://kimmroni.github.io/assets/images/thum/2014_ebs.jpg
 categories:
  - 공공/SI
 tags: 제작, 2018년, 교육부, 반응형, 다국어, JAVA
