@@ -1,5 +1,5 @@
 ---
-title: 월드비전 프로모션
+title: 월드비전 "위기의 아이들을 돕는 정기후원" 프로모션
 description:
 photos:
 - https://kimmroni.github.io/assets/images/thum/2019_worldvs.png
