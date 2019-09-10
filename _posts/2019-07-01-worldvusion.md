@@ -22,7 +22,7 @@ PC 웹 / M 워드프레스 별도로 운영되는 가이드라인에 맞추어 M
 ## 시안
 
 #### PC
-![pc kor](/assets/images/post/yeondu.jpg)
+![pc kor](/assets/images/post/yeondu_pc.jpg)
 
 #### 모바일
 ![Mobile kor](/assets/images/post/yeondu_m.jpg)
