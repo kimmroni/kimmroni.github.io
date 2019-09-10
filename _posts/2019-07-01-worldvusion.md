@@ -19,6 +19,8 @@ PC 웹 / M 워드프레스 별도로 운영되는 가이드라인에 맞추어 M
 - 스타일가이드제작
 - 디자인 컨셉정의
 
+## 시안
+
 #### PC
 ![pc kor](/assets/images/post/yeondu.jpg)
 
