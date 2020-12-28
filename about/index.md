@@ -1,9 +1,6 @@
 ---
 layout: page
 type: about
-photos:
----
-about
 ---
 
 # 김민정 1988, 33세
