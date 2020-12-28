@@ -20,20 +20,19 @@ KOSA 등급 2019년 기준 중급
 - 컴퓨터활용능력 3급 대한상공회의소
 
 # 수상
-2008년
-ADAA(Adobe Design Achievement Awords) Semifinal 진 Adobe
-
-2007년
-넥슨 마비노기 2007 대학생 슬로건 공모전 IDEA! The idal! 우수상
+- 2008년 ADAA(Adobe Design Achievement Awords) Semifinal 진 Adobe
+- 넥슨 마비노기 2007 대학생 슬로건 공모전 IDEA! The idal! 우수상
 
 # 경력
+
 + 로운식품2020. 01 ~ (상시 업무 프리랜서 계약중)
 ```
 2020. 10 - 양배추즙 신규 출시 판매 상세페이지 / SNS 홍보 컨텐츠 제작 / 네이버 쇼핑몰 용 이미지 제작
-
 2020. 01 - 양파즙 상세페이지 / 위메프 판매용 이미지 / 네이버 쇼핑몰 용 이미지 제작
 ```
+
 ***
+
 + 아메바 2019. 11 ~ 2019. 12
 ```
 현대 M&N SOFT 내비게이션 GUI PL 업무 프리랜서 2개월 계약
