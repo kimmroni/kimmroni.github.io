@@ -6,6 +6,7 @@ photos:
 - https://kimmroni.github.io/assets/images/thum/2018_niied.png
 - https://kimmroni.github.io/assets/images/thum/2018_niied.png
 ---
+about
 
 # 김민정 1988, 33세
 mail. poring123@naver.com<br>
