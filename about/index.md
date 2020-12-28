@@ -7,26 +7,26 @@ photos:
 - https://kimmroni.github.io/assets/images/thum/2018_niied.png
 ---
 
-#김민정 1988, 33세
+# 김민정 1988, 33세
 mail. poring123@naver.com<br>
 KOSA 등급 2019년 기준 중급
 
-#학력
+# 학력
 계원예술대학교 멀티미디어디자인학과 졸업
 
 
-#자격증
+# 자격증
 컴퓨터그래픽스운용기능사 산업인력공단
 컴퓨터활용능력 3급 대한상공회의소
 
-#수상
+# 수상
 2008년
 ADAA(Adobe Design Achievement Awords) Semifinal 진 Adobe
 
 2007년
 넥슨 마비노기 2007 대학생 슬로건 공모전 IDEA! The idal! 우수상
 
-#경력
+# 경력
 - 로운식품2020. 01 ~ (상시 업무 프리랜서 계약중)
 ```
 2020. 10 - 양배추즙 신규 출시 판매 상세페이지 / SNS 홍보 컨텐츠 제작 / 네이버 쇼핑몰 용 이미지 제작
