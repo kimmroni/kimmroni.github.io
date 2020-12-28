@@ -4,7 +4,7 @@ description: 제작기간 2016.05 ~ 2016.9 / 유지관리기간 2016.05 ~ 2018 i
 photos:
 - https://kimmroni.github.io/assets/images/thum/2016_aqua.png
 categories:
- - 대기업
+ - 기업
 tags: 제안, 제작, 2016년, 신세계건설, 반응형, 브랜드, 유지보수, JAVA
 ---
 
